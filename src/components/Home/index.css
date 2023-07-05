@@ -1,0 +1,48 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.profile-pic {
+    height: 200px;
+    width: 200px;
+    border: 100px;
+}
+
+.list-of-items {
+    list-style: none;
+}
+
+.first-line {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title {
+    color: #12022f;
+    font-size: 20px;
+}
+
+.description {
+    color: #616e7c;
+}
+
+.date {
+    color: #9aa5b1;
+}
+
+.home-cont {
+    width: 1105px;
+    padding-left: 76px;
+}
+
+.profile-cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
